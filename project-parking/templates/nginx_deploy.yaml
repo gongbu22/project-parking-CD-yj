@@ -18,7 +18,7 @@ spec:
     spec:
       containers:
         - name: front-nginx
-          image: dangdang42/front-nginx:v14
+          image: dangdang42/front-nginx:v17  # 14
           ports:
             - containerPort: 80
 
